@@ -7,7 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "apollo-boost": "^0.3.1",
+    "apollo-link-state": "^0.4.2",
+    "graphql": "^14.1.1",
     "vue": "^2.6.6",
+    "vue-apollo": "^3.0.0-beta.28",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {

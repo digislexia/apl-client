@@ -1,0 +1,6 @@
+query {
+    shortusers: users {
+        id
+        name
+    }
+}
